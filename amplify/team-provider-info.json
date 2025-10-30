@@ -1,0 +1,33 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-midterm1-dev-c11d5-authRole",
+      "UnauthRoleArn": "arn:aws:iam::619322353860:role/amplify-midterm1-dev-c11d5-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::619322353860:role/amplify-midterm1-dev-c11d5-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-midterm1-dev-c11d5-deployment",
+      "UnauthRoleName": "amplify-midterm1-dev-c11d5-unauthRole",
+      "StackName": "amplify-midterm1-dev-c11d5",
+      "StackId": "arn:aws:cloudformation:us-east-2:619322353860:stack/amplify-midterm1-dev-c11d5/4e5703b0-b572-11f0-b26e-0ada9b502bd3",
+      "AmplifyAppId": "dm2btn3vw4pja"
+    }
+  },
+  "mid": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-midterm1-mid-6a1ec-authRole",
+      "UnauthRoleArn": "arn:aws:iam::619322353860:role/amplify-midterm1-mid-6a1ec-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::619322353860:role/amplify-midterm1-mid-6a1ec-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-midterm1-mid-6a1ec-deployment",
+      "UnauthRoleName": "amplify-midterm1-mid-6a1ec-unauthRole",
+      "StackName": "amplify-midterm1-mid-6a1ec",
+      "StackId": "arn:aws:cloudformation:us-east-2:619322353860:stack/amplify-midterm1-mid-6a1ec/ee423160-b572-11f0-a519-024627184c09",
+      "AmplifyAppId": "dm2btn3vw4pja"
+    },
+    "categories": {
+      "auth": {
+        "midterm1021a12d3": {}
+      }
+    }
+  }
+}
